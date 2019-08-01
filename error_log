@@ -1,0 +1,122 @@
+[12-Jun-2018 12:53:38 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[12-Jun-2018 12:53:38 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[13-Jun-2018 05:37:10 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring.php on line 6
+[13-Jun-2018 05:38:31 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[13-Jun-2018 05:38:31 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[13-Jun-2018 05:53:04 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring.php on line 6
+[13-Jun-2018 09:24:49 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/createuser.php on line 6
+[13-Jun-2018 15:12:02 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring.php on line 6
+[13-Jun-2018 15:41:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring_insert.php on line 11
+[13-Jun-2018 15:41:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring_insert.php on line 11
+[13-Jun-2018 15:41:31 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring_insert.php on line 11
+[13-Jun-2018 15:42:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring_insert.php on line 11
+[14-Jun-2018 18:34:05 UTC] PHP Warning:  include(include/head): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/login.php on line 5
+[14-Jun-2018 18:34:05 UTC] PHP Warning:  include(): Failed opening 'include/head' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/login.php on line 5
+[14-Jun-2018 18:34:08 UTC] PHP Warning:  include(include/head): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/login.php on line 5
+[14-Jun-2018 18:34:08 UTC] PHP Warning:  include(): Failed opening 'include/head' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/login.php on line 5
+[14-Jun-2018 18:42:35 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[14-Jun-2018 18:42:35 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[14-Jun-2018 18:43:10 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[14-Jun-2018 18:43:10 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 08:41:40 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 08:41:40 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 10:55:20 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 10:55:20 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 11:17:01 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 11:17:01 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 11:20:36 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 11:20:36 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 11:21:40 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 11:21:40 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 11:25:34 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 11:25:34 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 13:02:33 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/createuser.php on line 6
+[15-Jun-2018 13:02:36 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/createuser.php on line 6
+[15-Jun-2018 13:10:38 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 13:10:38 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 13:10:40 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/write_blog.php on line 6
+[15-Jun-2018 13:10:48 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/createuser.php on line 6
+[15-Jun-2018 13:20:13 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[15-Jun-2018 13:20:13 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[20-Jun-2018 16:10:58 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring.php on line 6
+[20-Jun-2018 18:45:39 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[20-Jun-2018 18:45:39 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[21-Jun-2018 14:10:02 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/prominent.php on line 6
+[22-Jun-2018 12:15:53 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/prominent.php on line 6
+[22-Jun-2018 12:18:57 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 12:18:57 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 12:23:06 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 12:23:06 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 12:33:28 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 12:33:28 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 14:18:43 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring.php on line 6
+[22-Jun-2018 17:54:55 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 17:54:55 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:01:13 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:01:13 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:03:26 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:03:26 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:06:02 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:06:02 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:08:50 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/job_posting.php on line 6
+[22-Jun-2018 18:09:29 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:09:29 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:12:26 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:12:26 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:14:00 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:14:00 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:14:34 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:14:34 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:24:16 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring.php on line 6
+[22-Jun-2018 18:27:29 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/prominent.php on line 6
+[22-Jun-2018 18:38:12 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:38:12 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:38:23 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:38:23 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:38:24 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:38:24 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 18:57:35 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/write_blog.php on line 6
+[22-Jun-2018 19:39:03 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[22-Jun-2018 19:39:03 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[25-Jun-2018 09:20:25 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[25-Jun-2018 09:20:25 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[25-Jun-2018 12:41:46 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[25-Jun-2018 12:41:46 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[25-Jun-2018 18:02:51 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[25-Jun-2018 18:02:51 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[26-Jun-2018 11:53:20 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[26-Jun-2018 11:53:20 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[27-Jun-2018 13:07:58 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[27-Jun-2018 13:07:58 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[28-Jun-2018 11:39:49 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[28-Jun-2018 11:39:49 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[28-Jun-2018 12:59:11 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[28-Jun-2018 12:59:11 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[30-Jun-2018 12:05:46 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/write_blog.php on line 6
+[02-Jul-2018 12:55:25 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[02-Jul-2018 12:55:25 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[05-Jul-2018 11:43:13 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[05-Jul-2018 11:43:13 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[05-Jul-2018 15:09:47 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[05-Jul-2018 15:09:48 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[09-Jul-2018 06:28:19 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/job_posting.php on line 6
+[09-Jul-2018 17:23:06 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/job_posting.php on line 6
+[09-Jul-2018 17:59:24 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/job_posting.php on line 6
+[12-Jul-2018 10:26:55 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[12-Jul-2018 10:26:55 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[12-Jul-2018 10:29:19 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[12-Jul-2018 10:29:19 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[12-Jul-2018 10:29:33 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[12-Jul-2018 10:29:33 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[12-Jul-2018 10:30:35 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[12-Jul-2018 10:30:35 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[13-Jul-2018 08:01:48 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/job_posting.php on line 6
+[13-Jul-2018 09:13:50 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[13-Jul-2018 09:13:50 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[07-Aug-2018 08:23:27 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[07-Aug-2018 08:23:27 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xax8vuuywk2d/public_html/mebhineta.com/logout.php on line 2
+[29-Jan-2019 08:59:23 UTC] PHP Notice:  Undefined variable: row in /home/xax8vuuywk2d/public_html/mebhineta.com/prominent-leaders_readmore.php on line 30
+[29-Jan-2019 09:00:47 UTC] PHP Notice:  Undefined variable: row in /home/xax8vuuywk2d/public_html/mebhineta.com/prominent-leaders_readmore.php on line 30
+[29-Jan-2019 09:00:53 UTC] PHP Notice:  Undefined variable: row in /home/xax8vuuywk2d/public_html/mebhineta.com/prominent-leaders_readmore.php on line 30
+[04-Feb-2019 05:36:23 UTC] PHP Notice:  Undefined variable: row in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring_leader_readmore.php on line 32
+[05-Feb-2019 09:40:07 UTC] PHP Notice:  Undefined index: utype in /home/xax8vuuywk2d/public_html/mebhineta.com/aspiring.php on line 6

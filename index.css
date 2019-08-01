@@ -1,0 +1,1177 @@
+body{
+	
+	margin:0px;
+	padding:0px;
+
+}
+
+#navhead{
+
+	width: 100%;
+	height: 110px;
+	background-color: #ffffff;
+
+}
+
+#topbarsearch {
+
+	width: 180px;
+	height:10px;
+  border-radius: 5px;
+  font-size: 13px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 2px 12px 8px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  float: right;
+  font-family: 'Lora', serif;
+    
+}
+
+
+#pic{
+
+margin-left: 10%;
+padding-top: 4%;
+padding-bottom: 3%;
+
+}
+
+
+#call{
+
+	padding-top: 10px;
+  float: right;
+
+}
+
+#text{
+
+	margin-left: 5%;
+	float: right;
+	font-family: 'Lora', serif;
+	font-size: 15px;
+	
+}
+
+#text1{
+
+	color: #4e2623;
+	font-size: 18px;
+	font-family: 'Lora', serif;
+
+}
+
+
+#abouthead{
+
+    color:  #4e2623;
+    font-family: ' Lora', serif;
+    margin-top: 3%;
+    font-size: 40px;
+
+}
+
+#abouthead2{
+
+    color:  #4e2623;
+    text-align: left;
+    font-family: ' Lora', serif;
+    font-size: 30px;
+
+}
+
+
+#head1{
+
+    color:  #4e2623;
+    text-align: center;
+    font-family: ' Lora', serif;
+    margin-top: 3%;
+
+}
+
+#para1{
+
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    text-align: justify;
+
+}
+
+#aboutbtn{
+
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: #69332f;
+    text-decoration: none;
+}
+
+.bounceInLeft {
+  -webkit-animation-duration: 3s;
+  -webkit-animation-delay: 0s;
+  -webkit-animation-iteration-count: 1s ;
+}
+
+.bounceInRight {
+  -webkit-animation-duration: 3s;
+  -webkit-animation-delay: 0s;
+  -webkit-animation-iteration-count: 1s ;
+}
+
+#aboutbtn a{
+
+    text-decoration: none;
+    color: #ffffff;
+
+
+}
+
+#ser{
+    margin-top: 3%;
+   
+}
+
+
+/* image CSS */
+
+#image{
+
+    margin-top: -21px;
+}
+
+
+
+/********************************/
+/*          Hero Headers        */
+/********************************/
+
+
+.hero {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 3;
+    color: #fff;
+    text-align: center;
+   
+    text-shadow: 1px 1px 0 rgba(0,0,0,.75);
+      -webkit-transform: translate3d(-50%,-50%,0);
+         -moz-transform: translate3d(-50%,-50%,0);
+          -ms-transform: translate3d(-50%,-50%,0);
+           -o-transform: translate3d(-50%,-50%,0);
+              transform: translate3d(-50%,-50%,0);
+}
+
+.hero h1 {
+    
+    font-size: 28px;
+    color: #ffffff;
+    font-family: 'Lora', serif;
+    
+    margin: 0;
+    padding: 0;
+}
+
+.hero h2 {
+    
+    font-size: 28px;
+    color: #ffffff;
+    font-family: 'Lora', serif;
+    line-height: 130%;
+    margin: 0;
+    padding: 0;
+}
+
+.fade-carousel .carousel-inner .item .hero {
+    opacity: 0;
+    -webkit-transition: 2s all ease-in-out .1s;
+       -moz-transition: 2s all ease-in-out .1s; 
+        -ms-transition: 2s all ease-in-out .1s; 
+         -o-transition: 2s all ease-in-out .1s; 
+            transition: 2s all ease-in-out .1s; 
+}
+
+.fade-carousel .carousel-inner .item.active .hero {
+    opacity: 1;
+    -webkit-transition: 2s all ease-in-out .1s;
+       -moz-transition: 2s all ease-in-out .1s; 
+        -ms-transition: 2s all ease-in-out .1s; 
+         -o-transition: 2s all ease-in-out .1s; 
+            transition: 2s all ease-in-out .1s;    
+}
+
+/********************************/
+/*            Overlay           */
+/********************************/
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+  /*  background-color: #080d15;*/
+    opacity: .7;
+}
+
+/********************************/
+/*          Custom Buttons      */
+/********************************/
+.btn.btn-lg {padding: 10px 40px;}
+.btn.btn-hero,
+.btn.btn-hero:hover,
+.btn.btn-hero:focus {
+    color: #f5f5f5;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    outline: none;
+    margin: 20px auto;
+}
+
+/********************************/
+/*       Slides backgrounds     */
+/********************************/
+.fade-carousel .slides .slide-1, 
+.fade-carousel .slides .slide-2,
+.fade-carousel .slides .slide-3,
+ .fade-carousel .slides .slide-4,
+.fade-carousel .slides .slide-5, 
+.fade-carousel .slides .slide-6 {
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  
+}
+.fade-carousel .slides .slide-1 {
+  background-image: url("image/rashtrapati bhavan-Me-Bhi-Neta.jpg"); 
+}
+.fade-carousel .slides .slide-2 {
+  background-image: url("image/indian-parliament-Me-Bhi-Neta.jpg");
+}
+.fade-carousel .slides .slide-3 {
+  background-image: url("image/red-fort-Me-Bhi-Neta.jpg");
+}
+.fade-carousel .slides .slide-4 {
+  background-image: url("image/parliament-Me-Bhi-Neta.jpg");
+}
+/********************************/
+/*          Media Queries       */
+/********************************/
+@media screen and (min-width: 980px){
+    .hero { width: 980px; }    
+}
+@media screen and (max-width: 640px){
+    .hero h1 { font-size: 4em; }    
+}
+
+
+/* Slider End Here */
+
+
+
+
+/* Service div start */
+
+
+#service{
+
+    background-color: #4e2623;
+    min-height: 280px;
+    height: auto;
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    margin-bottom: 50px;
+    
+
+}
+
+
+
+
+
+#head2{
+
+    font-family: 'Lora', serif;
+    font-size: 32px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 2%;
+    
+
+}
+
+
+
+/* End here */
+
+/* Testimonials css start */
+
+
+#testimonials{
+
+    background-color: #EEEEEE;    
+    min-height: 350px;
+
+}
+
+
+#head3{
+
+    font-family: 'Lora', serif;
+    font-size: 35px;
+    text-align: center;
+    color: #4caf50;
+    padding-top: 4%;
+
+}
+
+
+#div1{
+
+    max-width: 450px;
+    min-height: 150px;
+    background-color: #ffffff;
+    color: black;
+    padding-top: 1%;
+    margin-top: 2%;
+
+}
+
+#div2{
+
+    max-width: 450px;
+    min-height: 150px;
+    background-color: #ffffff;
+    color: black;
+    padding-top: 1%;
+    float: right; 
+    margin-top: 2%;
+}
+
+
+#pic1{
+
+    padding-top: 2%;
+    float: left;
+}
+
+
+#para2{
+
+    font-size: 14px;
+    font-family: 'Lora', serif;
+    text-align: left;
+    padding-top: 3%;
+ 
+}
+
+
+
+
+
+/* Testimonials css end */
+
+
+
+
+/* Blog Css start */
+
+#blogs {
+
+    min-height: 990px;
+    background-color: #ffffff;
+    margin-bottom: 15px;
+
+
+
+
+}
+
+#blogdiv2{
+
+    width: auto;
+    min-height: 120px;
+    background-color: #4e2623;
+
+    
+}
+
+
+#blogdiv1{
+
+    width: auto;
+    min-height: 120px;
+    background-color: #4e2623;
+
+    
+}
+
+#blogdiv3{
+
+    width: auto;
+    min-height: 120px;
+    background-color: #4e2623;
+
+    
+}
+
+
+#mainblogdiv{
+
+    background-color: #69332f;
+    width: auto;
+    min-height: 400px;
+
+}
+
+#mainblogdiv1{
+
+    background-color: #69332f;
+    width: auto;
+    min-height: 400px;
+
+}
+
+
+#mainblogdiv2{
+
+    background-color: #69332f;
+    width: auto;
+    min-height: 400px;
+
+}
+
+
+#blogpara{
+
+    color: #ffffff;
+    font-family: 'Lora', serif;
+    padding-left: 5%;
+    text-align: justify;
+    padding-top: 5%;
+    font-size: 15px;
+    padding-right: 5%;
+
+}
+
+
+#blogh3{
+
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    padding-top: 5%;
+    line-height: 130%;
+    padding-left: 5%;
+}
+
+#blogh5{
+
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Lora', serif;
+    font-size: 13px;
+    padding-left: 5%;
+
+
+}
+
+#head4{
+
+    color:#4e2623;
+    font-size: 35px;
+    font-family: 'Lora', serif;
+    text-align: center;
+    
+}
+
+
+#blogh2{
+
+
+    color: #4e2623;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lora', serif;
+    text-decoration: none;
+
+}
+
+
+#bloglink {
+
+    color: #ffffff;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    text-decoration: underline;
+    border-style: none;
+
+}
+
+
+/* Blogs end here */
+
+
+
+
+
+/* News CSS start here */
+
+#newshead{
+
+    position: absolute;
+    color: #ffffff;
+    font-family: 'Lora', serif;
+    top: 28%;
+    left: 45%;
+    font-size: 40px;
+
+}
+
+
+
+/* Clients CSS Start here */
+
+#buttonclient{
+
+    position: absolute;
+    background-color: #4caf50;
+    border: none;
+    color: #ffffff;
+    padding: 15px 20px;
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 25px;
+    top:60%;
+    left: 45%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+
+#clienthead{
+
+    font-family: 'Lora', serif;
+    color: #4e2623;
+    text-align: center;
+    margin-top: 3%;
+    font-size: 40px;
+
+
+}
+
+#client {
+
+    margin-top: 2%;
+
+}
+
+#client li {
+
+    color: #000000;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+
+}
+
+
+
+
+/* Our Team Start here */
+
+
+
+#buttonteam{
+
+    position: absolute;
+    background-color: #4caf50;
+    border: none;
+    color: #ffffff;
+    padding: 15px 15px;
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 23px;
+    top:60%;
+    left: 45%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+
+
+#maincontent{
+
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    text-align: justify;
+   
+
+}
+
+
+
+/* Footer start here */
+
+
+#footer{
+
+    background-color: #4e2623;
+    min-height: 150px;
+    font-family: 'Lora', serif;
+
+}
+
+#headh3{
+
+    font-family: 'Lora', serif;
+    font-size: 25px;
+    color: #ffffff;
+    
+
+}
+
+
+
+#footer ul > li > a{
+
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    text-align: left;
+
+}
+
+
+#footer li a{
+
+    text-decoration: none;
+    
+
+}
+
+#footer li > a: hover{
+
+    color: grey!important;
+
+}
+
+
+.ulfoot
+
+{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    margin-bottom: 4%;
+}
+
+
+
+
+
+/* Footer End here */
+
+
+
+#copyright{
+
+    min-height: 50px;
+    background-color: #69332f;
+
+
+}
+
+#copyrightpara{
+
+    padding-top: 1%;
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#copyrightpara a{
+
+    
+    text-decoration: none;
+}
+
+#copyrightpara a:hover{
+
+    color: #ffffff;
+}
+
+#social a{
+
+    color: #3b5998;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+#social a:hover{
+
+    color: #3b5998;
+
+}
+
+
+
+
+/* Click to top Start  */
+
+
+#myBtn {
+      width:35 px;
+      display: none;
+      position: fixed;
+      bottom: 20px;
+      right: 30px;
+      z-index: 99;
+      border: none;
+      outline: none;
+      background-color: #4e2623;
+      color: #ffffff;
+      cursor: pointer;
+      padding: 15px;
+      border-radius:0px;
+      font-family: 'Lora', serif;
+      font-size: 23px;
+      border-radius: 4px;
+
+}
+
+#arrow{
+
+    color:#ffffff;
+}
+
+
+
+#myBtn:hover {
+  background-color: #a3a3a3;
+  color:white;
+}
+
+
+
+/* Click to top end here */
+
+
+
+/* Main Content Start Here */
+
+#servicehead1{
+
+    font-family: 'Lora', serif;
+    color: #4e2623;
+}
+
+#servicehead2{
+
+    font-family: 'Lora', serif;
+    color: #4e2623;
+ 
+}
+
+#servicehead3{
+
+    
+    font-family: 'Lora', serif;
+    color: #4e2623;
+}
+
+
+#servicepara {
+
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    text-align: justify;
+    color: black;
+
+
+}
+
+
+#margin-line{
+
+    border-bottom-style:solid;
+    border-width: 1px;
+    border-color: #4e2623;
+    margin-right: 1%;
+    
+}
+
+#service-head3{
+
+    font-size: 20px;
+    font-family: 'Lora', serif;
+    color: #319f22;
+}
+
+#service-head4{
+
+    font-size: 18px;
+    font-family: 'Lora', serif;
+    color: #319f22;
+
+}
+
+
+
+
+/* -------------Contact Section------------------- */
+
+#contact {
+
+    font-family: 'Lora', serif;
+    text-align:center;
+    font-size: 60px;
+    color: #4e2623;
+    border-bottom-style: dotted;
+    border-width: 1px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+
+#name{
+
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    color: #4e2623;
+      
+}
+
+#email{
+
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    color: #4e2623;
+      
+}
+
+#phone{
+
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    color: #4e2623;      
+}
+
+#message{
+
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    color: #4e2623; 
+    padding:  20px;
+}
+
+.contact-form,
+.contact-address{
+    padding-top: 20px;
+}
+
+.contact-form .form-group{
+    padding: 5px 0;
+    min-height: 100%;
+}
+
+.contact-form .form-group label{
+    font-weight: 600;
+}
+
+.contact-form .form-group button{
+    display: inline-block;
+    min-height: 100%;
+}
+
+.contact-form .form-group input,
+.contact-form .form-group textarea{
+    border-radius: 0;
+    padding: 20px 10px;
+    min-width: 100%;
+    font-size: 16px;
+}
+
+.contact-form .form-group textarea{
+    padding-top: 10px;
+}
+
+
+.contact-form .form-group .btn-default{
+    min-width: 100%;
+}
+
+.contact-form .form-group input[type="email"],
+.contact-form .form-group input[type="phone"],
+.contact-form .form-group input[type="text"] 
+{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 42px; /* Increase height as required */
+    margin-bottom: 0px;
+    padding: 0 20px; /*  Now only left & right padding */
+
+}
+
+.contact-address ul{
+    list-style: none;
+    padding: 0px;
+}
+
+.contact-address ul li{
+    font-size: 16px;
+  
+}
+
+.contact-address ul li span{
+    font-weight: 600;
+    display: inline-block;
+    min-width: 80px;
+}
+
+.contact-form label.error,
+.contact-form label.error.valid{
+    color:#f00;
+    padding-top: 10px;
+}
+
+.contact-form label.error.valid{
+    color:#018804;
+}
+
+#send{
+
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    background-color: #4e2623;
+    color: #ffffff;
+    border-radius: 0px;
+
+}
+
+#contactinfo{
+
+    font-family: 'Lora', serif;
+    text-align:center;
+    font-size: 30px;
+    color: #4e2623;
+    margin-bottom: 10px;
+   
+}
+
+#contactpara{
+
+    font-family: 'Lora', serif;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 8px;
+
+}
+
+
+/*------ My Map ------- */
+
+#mycomp-map iframe{width: 100%;}
+#mycomp-map{
+    height: 227px;
+    overflow: hidden;
+}
+
+
+/*----- Table Css ------ */
+
+#tab {
+
+    text-decoration: none;
+}
+
+
+::selection {
+    color:black;
+    background:transparent;
+}
+
+
+
+/* Social bar CSS Start */
+
+
+.text {
+  margin: 0 60px;
+}
+
+
+.twitter {
+  color: #000000;
+  text-decoration: none;
+  display: block;
+  padding: 14px;
+  -webkit-transition: all .25s ease;
+  -moz-transition: all .25s ease;
+  -ms-transition: all .25s ease;
+  -o-transition: all .25s ease;
+  transition: all .25s ease;
+}
+
+.twitter:hover {
+  color: #FF7D6D;
+  text-decoration: none;
+}
+
+
+/* Floating Social Media Bar Style Starts Here */
+
+.fl-fl {
+  background: #000000;
+  text-transform: none;
+  letter-spacing: 3px;
+  padding: 4px;
+  width: 195px;
+  position: fixed;
+  right: -160px;
+  z-index: 1000;
+  font: normal normal 10px Arial;
+  -webkit-transition: all .25s ease;
+  -moz-transition: all .25s ease;
+  -ms-transition: all .25s ease;
+  -o-transition: all .25s ease;
+  transition: all .25s ease;
+}
+
+.fa {
+  font-size: 20px;
+  color: #fff;
+  padding: 10px 0;
+  width: 40px;
+  margin-left: 8px;
+}
+
+.fl-fl:hover {
+  right: 0;
+}
+
+.fl-fl a {
+  color: #fff !important;
+  text-decoration: none;
+  text-align: center;
+  line-height: 43px!important;
+  vertical-align: top!important;
+}
+
+.float-fb {
+  top: 160px;
+  background-color: #3B5998;
+    
+}
+
+.float-tw {
+  top: 215px;
+  background-color:  #00aced;
+}
+
+.float-gp {
+  top: 270px;
+  background-color: #f44336;
+}
+
+.float-yt {
+  top: 325px;
+  background-color: #cc181e;
+}
+
+.float-ig {
+  top: 380px;
+  background-color: #fb3958;
+}
+
+.float-lk {
+  top: 435px;
+  background-color: #0077B5;
+}
+/* Floating Social Media Bar Style Ends Here */
+
+
+
+/* Recent Post CSS */
+
+.recent{
+
+  width: 105% ;
+  height: 55px ;
+  border: 1px solid #4e2623;
+  background-color: #4e2623;
+  color: #ffffff;
+  text-align: left;
+  padding-left: 23px;
+  padding-top: 10px;
+  font-size: 25px;
+  font-family: ' Lora', serif;
+  margin-top: 25%;
+  
+
+}
+
+.view{
+
+  width: 105%;
+  min-height: 130px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #69332f;
+  overflow:hidden;
+  color: #fff;
+  font-family: ' Lora', serif;
+  font-size: 17px;
+
+}
+
+.job-opening .form-control {
+    border-color: transparent;
+}
+
+.job-opening label {
+    color: rgba(72, 73, 74, 0.91);
+}
+
+#submit_career {
+    width: 170px;
+    border-radius: 20px;
+    height: 40px;
+    border: none;
+    background-color: #4e2623;
+    font-family: ' Lora', serif;
+    font-size: 18px;
+}
+
+.border-resume {
+    border-radius: 3px;
+    padding: 10px 10px;
+    background: #fff;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+#first_name{
+
+  font-size: 16px;
+  font-family: ' Lora', serif;
+}
